@@ -2,7 +2,7 @@
 
 ##DEMO
 
-[demo](https://mostafain.github.com/deckOfCards-task/index.html)
+[demo](https://iridescent-pastelito-6ff97f.netlify.app/)
 
 
 ## Screenshot
