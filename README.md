@@ -1,4 +1,4 @@
-## This is a bookmark bar task.
+## This is a Programming Exercise (Create a deck of cards task).
 
 ##DEMO
 
